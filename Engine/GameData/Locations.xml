@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--external data file with properties for location objects-->
+<Locations RootImagePath="/Images/Locations/">
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+  <Location X="" Y="" name="" imageName="">
+    <Description><![CDATA[]]></Description>
+    <Monsters>
+      <Monster id="" percent="" />
+    </Monsters>
+  </Location>
+</Locations>

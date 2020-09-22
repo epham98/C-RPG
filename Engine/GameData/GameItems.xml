@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--external data file with properties for game items-->
+<GameItems>
+  <Weapons>
+    <Weapon id="1001" name="Lunge" price="1" minimumDamage="1" maximumDamage="2" />
+    <Weapon id="1002" name="Feral Claw" price="5" minimumDamage="2" maximumDamage="3" />
+    <Weapon id="1501" name="Slime Ball" price="0" minimumDamage="0" maximumDamage="2" />
+    <Weapon id="1502" name="Rat Claws" price="0" minimumDamage="0" maximumDamage="2" />
+    <Weapon id="1503" name="Frost Bite" price="0" minimumDamage="1" maximumDamage="4" />
+  </Weapons>
+  <HealingItems>
+    <HealingItem id="2001" name="Prayer Bead" price="5" hpToHeal="2" />
+    <HealingItem id="2002" name="Bead String" price="10" hpToHeal="5" />
+  </HealingItems>
+  <MiscItems>
+    <MiscItem id="3001" name="Empty Bead" price="1" />
+    <MiscItem id="3002" name="Healing Essence" price="2" />
+    <MiscItem id="9001" name="Slime bone" price="1" />
+    <MiscItem id="9002" name="Slime drop" price="2" />
+    <MiscItem id="9003" name="Rat tail" price="1" />
+    <MiscItem id="9004" name="Rat fur" price="2" />
+    <MiscItem id="9005" name="Frost tooth" price="2" />
+    <MiscItem id="9006" name="Frost cloth" price="3" />
+  </MiscItems>
+</GameItems>
